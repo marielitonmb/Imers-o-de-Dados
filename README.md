@@ -1,4 +1,4 @@
-# Imersão de Dados - Alura
+# 2ª Imersão de Dados - Alura #ImersaoDados
 ***
 
 **Período das aulas**
@@ -20,3 +20,6 @@ A aula conteve várias discusões interessantes sobre os dados investigados. Foi
 
 **Aula 4: Prevendo notas com Machine Learning**
 Nessa aula foi criado um primeiro modelo de Machine Learning, tentando entender a diferença entre problemas de regressão e classificação e como avaliar o modelo proposto utilizando a biblioteca Scikit-Learning.
+
+**Aula 5: Validação de modelo e Overfit**
+Mergulhamos mais fundo no mundo do machine learning, discutindo técnicas como cross-validation, que ajudam a aumentar nossa confiança nos resultados dos modelos de machine learning e foi mostrado o tão temido overfit acontecendo.
